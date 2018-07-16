@@ -1,0 +1,15 @@
+.dateContainer{
+    padding-top: 20px;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.date{
+    padding: 5px 5px;
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
